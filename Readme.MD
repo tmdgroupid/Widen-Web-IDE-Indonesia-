@@ -6,6 +6,16 @@ Feature :
 
 2. Menu Text Editor ( Open file / open project, New Project / New File, Save , Save as, Toolbox : Connect Xampp and Browser : RI Browser)
 
+How to Use:
+1.[Download Setup Installation](https://github.com/tmdgroupid/Widen-Web-IDE-Indonesia-/tree/master/Setup%20Installation%20Widen)
+2.Open and then install.
+3. Finish.
+
+How to Contribute:
+1. [Download Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
+2. Open and Install Package Visual Basic .Net
+3. Open Widen(Web IDE Indonesia).sln
+
 Link Video Demo : https://www.youtube.com/watch?v=o4ZLfCS0wIc 
 
 Link Screenshot Software : 
